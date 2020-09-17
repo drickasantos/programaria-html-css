@@ -1,4 +1,4 @@
-# Página Desenvolvida baseada no Projeto do PrograMaria
+# PrograMaria
 Site com os primeiros passos em Html, CSS e JavaScript
 
 <h4>Foram trabalhados os conceitos de:</h4>
